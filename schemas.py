@@ -11,4 +11,4 @@ class HouseInfo(BaseModel):
     YearRemodAdd: int = 1978
     Exterior1st: str = "HdBoard"
     BsmtFinSF2: float = 0.0
-    TotalBsmtSF: float = 672.0
+    TotalBsmtSF: float = 672.00
